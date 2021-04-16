@@ -4,7 +4,7 @@ Passionate and driven Software Engineer with 5+ years of experience across vario
 
 Always willing to try new things, but my strongest skill set include: Java, Angular, Node.JS, and SQL (also including their related tools).
 
-_[🧑🏾‍💻 - Personal website, showcasing some of my past projects and relevant experience.](https://jahanu.github.io)_
+[🧑🏾‍💻 - _Personal website, showcasing some of my past projects and relevant experience.](https://jahanu.github.io)_
 
 
 ## &#x1f4c8; My GitHub Stats
