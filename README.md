@@ -3,7 +3,9 @@
 Passionate and driven Software Engineer with 5+ years of experience across multiple platforms and technologies, including award-winning mobile applications and commercial enterprise full stack desktop applications.
 Always willing to try new things, but my strongest skill set include: Java, Angular, Node.JS, and SQL (not including their related tools).
 
-https://jahanu.github.io - Personal website, showcasing all my past projects and relevant experience. 
+[🧑🏾‍💻](https://jahanu.github.io) - Personal website, showcasing some of my past projects and relevant experience. 
+
+
 
 <!--
 **JahanU/jahanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
