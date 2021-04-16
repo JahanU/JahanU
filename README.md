@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Jahan!
 
-Passionate and driven Software Engineer with 5+ years of experience across multiple platforms and technologies, including [award-winning mobile](https://apps.apple.com/gb/app/hour-blocks-day-planner/id1456275153#?platform=iphone) applications and [commercial enterprise full stack desktop applications.](https://www.disclosureservices.com/)
+Passionate and driven Software Engineer with 5+ years of experience across various platforms and technologies, including [award-winning mobile](https://apps.apple.com/gb/app/hour-blocks-day-planner/id1456275153#?platform=iphone) applications and [commercial enterprise full stack desktop applications.](https://www.disclosureservices.com/)
 
 Always willing to try new things, but my strongest skill set include: Java, Angular, Node.JS, and SQL (also including their related tools).
 
