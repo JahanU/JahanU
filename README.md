@@ -8,7 +8,7 @@ _[🧑🏾‍💻 - Personal website, showcasing some of my past projects and re
 
 
 ## &#x1f4c8; My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanu&theme=default&langs_count=7&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanu&theme=default&langs_count=6&hide=css,html,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahanu&hide=contribs&theme=default&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
