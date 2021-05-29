@@ -1,4 +1,7 @@
-### Hi there 👋, I am Jahan!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jahan!
+
+<a href="https://www.linkedin.com/in/JahanUl/"><img height="30" src="https://github.com/JahanU/jahanu/blob/main/linkedin.png"></a>
+ <a href="https://jahanu.github.io/"><img height="30" src="https://github.com/JahanU/jahanu/blob/main/portfolio.png"></a>
 
 Passionate and driven Software Engineer with 5+ years of experience across various platforms and technologies, including [award-winning mobile applications](https://apps.apple.com/gb/app/hour-blocks-day-planner/id1456275153#?platform=iphone) and [commercial enterprise full stack desktop applications.](https://www.disclosureservices.com/)
 
