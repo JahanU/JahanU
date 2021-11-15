@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/JahanUl/"><img height="50" src="https://github.com/JahanU/jahanu/blob/main/linkedin.png"></a>
  <a href="https://jahanu.github.io/"><img height="50" src="https://github.com/JahanU/jahanu/blob/main/portfolio.png"></a>
 
-Passionate and driven Software Engineer with 5+ years of experience across various platforms and technologies, including [award-winning mobile](https://apps.apple.com/gb/app/hour-blocks-day-planner/id1456275153#?platform=iphone) and [commercial enterprise full stack desktop](https://www.disclosureservices.com/) applications.
+Passionate and driven Software Engineer with 5+ years of experience across various platforms and technologies, including [award-winning mobile](https://apps.apple.com/gb/app/hour-blocks-day-planner/id1456275153#?platform=iphone) and [commercial enterprise full stack](https://www.disclosureservices.com/) applications.
 
 Always willing to try new things, but my strongest skill set includes `Java, Angular, Node.JS, and SQL` 
 <hr> 
