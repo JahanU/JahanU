@@ -5,7 +5,7 @@
 
 Passionate and driven Software Engineer with 3+ years of experience across various platforms and technologies, including [award-winning mobile](https://apps.apple.com/gb/app/hour-blocks-day-planner/id1456275153#?platform=iphone) and [commercial enterprise full-stack](https://www.disclosureservices.com/) applications.
 
-Always willing to try new things, but my strongest skill set includes `React, Angular, Node.JS, Java`
+Now focusing on more Frontend/Full-Stack Web Development. My strongest skill set include `React, Angular, Java, Node.js`
 <hr> 
 
 ## &#x1f4c8; My GitHub Stats
