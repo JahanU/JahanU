@@ -8,9 +8,10 @@ Focused on more Frontend/Full-Stack Web Development. - `Javascript, Typescript, 
 <!--
 ## &#x1f4c8; My GitHub Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanu&theme=default&langs_count=5&hide=css,html,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
+ 
 [![Jahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahanu&hide=contribs&theme=default&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
 
 <!--
 **JahanU/jahanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
