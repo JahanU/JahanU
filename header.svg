@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#07152b"/>
+      <stop offset="100%" style="stop-color:#0a2240"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="160" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="40" x2="900" y2="40" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="0" y1="80" x2="900" y2="80" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="150" y1="0" x2="150" y2="160" stroke="#ffffff05" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="160" stroke="#ffffff05" stroke-width="1"/>
+  <line x1="450" y1="0" x2="450" y2="160" stroke="#ffffff05" stroke-width="1"/>
+  <line x1="600" y1="0" x2="600" y2="160" stroke="#ffffff05" stroke-width="1"/>
+  <line x1="750" y1="0" x2="750" y2="160" stroke="#ffffff05" stroke-width="1"/>
+
+  <!-- Accent dot -->
+  <circle cx="72" cy="62" r="4" fill="#4d9de0" opacity="0.9"/>
+
+  <!-- Prompt line -->
+  <text x="84" y="67" font-family="'Courier New', monospace" font-size="13" fill="#4d9de0" opacity="0.7">~/jahan $</text>
+
+  <!-- Name -->
+  <text x="72" y="106" font-family="'Courier New', monospace" font-size="36" font-weight="700" fill="#e6edf3" letter-spacing="1">Jahan</text>
+
+  <!-- Tagline -->
+  <text x="74" y="130" font-family="'Courier New', monospace" font-size="13" fill="#4d9de0" opacity="0.85">Software Engineer · Frontend &amp; Full-Stack · Building things people use</text>
+
+  <!-- Bottom wave -->
+  <path d="M0,140 C150,115 300,155 450,135 C600,115 750,150 900,130 L900,160 L0,160 Z" fill="#0d1117"/>
+</svg>
