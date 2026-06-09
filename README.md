@@ -26,7 +26,6 @@ Passionate Software Engineer with 5+ years of experience across various platform
     <img src="https://img.shields.io/badge/React_Native-0a2240?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Node.js-0a2240?style=for-the-badge&logo=nodedotjs&logoColor=68A063" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Next.js-0a2240?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind-0a2240?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind"/>
 </p>
 
 ---
