@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 50" width="900" height="50">
-  <rect width="900" height="50" fill="#0d1117"/>
-  <path d="M0,0 C150,25 300,-5 450,15 C600,35 750,0 900,20 L900,50 L0,50 Z" fill="#0a2240"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 48" width="900" height="48">
+
+  <!-- Warm beige background -->
+  <rect width="900" height="48" fill="#f5f0e8"/>
+
+  <!-- Top divider -->
+  <line x1="48" y1="8" x2="852" y2="8" stroke="#ddd5c8" stroke-width="1"/>
+
+  <!-- Footer text -->
+  <text x="450" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#a8967e" text-anchor="middle" letter-spacing="0.3">Thanks for stopping by</text>
+
 </svg>
