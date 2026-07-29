@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=3000&pause=1000&color=c96442&center=true&vCenter=true&width=520&lines=5%2B+years+building+products+people+love;Frontend+%26+Full-Stack+Web+mobile+dev;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=3000&pause=1000&color=c96442&center=true&vCenter=true&width=520&lines=6%2B+years+building+products+people+love;Frontend+%26+Full-Stack+Web+mobile+dev;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node.js" alt="Typing SVG" />
 </p>
 
 ---
